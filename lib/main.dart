@@ -6,7 +6,7 @@ void main()
       MaterialApp(
         home: Scaffold(
           appBar: AppBar(backgroundColor: Colors.grey.shade700, title:
-          Text('write and train')),
+          Text('write and train my friend')),
           backgroundColor: Colors.grey.shade900,
           body: const SafeArea(
             child: Padding(
